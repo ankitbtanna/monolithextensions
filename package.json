@@ -1,0 +1,43 @@
+{
+  "name": "monolithextensions",
+  "displayName": "Monolith Extensions Pack",
+  "description": "Set of extensions recommended and required for development in monolith using VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "formulahendry.auto-complete-tag",
+    "vscode-icons-team.vscode-icons",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "jasonnutter.search-node-modules",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "donjayamanne.git-extension-pack",
+    "Angular.ng-template",
+    "PKief.material-icon-theme",
+    "zhuangtongfa.material-theme",
+    "nrwl.angular-console",
+    "wix.vscode-import-cost",
+    "firsttris.vscode-jest-runner",
+    "EditorConfig.EditorConfig",
+    "GitHub.copilot-chat",
+    "GitHub.copilot",
+    "GitHub.copilot-labs",
+    "paragdiwan.gitpatch",
+    "codezombiech.gitignore",
+    "waderyan.gitblame",
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "andrew-codes.cypress-snippets",
+    "mattpocock.ts-error-translator"
+  ],
+  "dependencies": {
+    "@vscode/vsce": "^2.21.1"
+  }
+}
