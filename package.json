@@ -1,12 +1,13 @@
 {
   "name": "monolithextensions",
   "displayName": "Monolith Extensions Pack",
+  "icon": "images/box.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/ankitbtanna/monolithextensions"
   },
   "description": "Set of extensions recommended and required for development in monolith using VSCode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "ankittanna",
   "engines": {
     "vscode": "^1.83.0"
