@@ -1,8 +1,13 @@
 {
   "name": "monolithextensions",
   "displayName": "Monolith Extensions Pack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ankitbtanna/monolithextensions"
+  },
   "description": "Set of extensions recommended and required for development in monolith using VSCode",
   "version": "0.0.1",
+  "publisher": "ankittanna",
   "engines": {
     "vscode": "^1.83.0"
   },
@@ -11,13 +16,11 @@
   ],
   "extensionPack": [
     "formulahendry.auto-complete-tag",
-    "vscode-icons-team.vscode-icons",
     "esbenp.prettier-vscode",
     "dbaeumer.vscode-eslint",
     "jasonnutter.search-node-modules",
     "christian-kohler.npm-intellisense",
     "christian-kohler.path-intellisense",
-    "donjayamanne.git-extension-pack",
     "Angular.ng-template",
     "PKief.material-icon-theme",
     "zhuangtongfa.material-theme",
